@@ -1,0 +1,126 @@
+h1 {
+    font-family: Georgia, serif;
+}
+
+body {
+    margin: 0;
+}
+
+#top {
+    margin: 10px;
+    height: 130px;
+    width: 600px;
+    background-color: #555555;
+    /*position: absolute;*/
+/*    top: 0;
+    left: 0;*/
+}
+
+#middle {
+    margin: 10px;
+    height: 130px;
+    width: 600px;
+    background-color: #555555;
+    /*position: absolute;*/
+/*    top: 80;
+    left: 0;*/
+}
+
+#bottom {
+    margin: 10px;
+    height: 130px;
+    width: 600px;
+    background-color: #555555;
+    top: 0;
+    left: 350px;
+    /*display: inline-block;*/
+    /*position: absolute;*/
+/*    top: 200;
+    left: 0;*/
+}
+
+#top-left {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-left: 6px;
+    margin-top: 6px;
+    margin-right: 0;
+    height: 118px;
+    width: 192px;
+}
+
+#top-middle {
+    display: inline-block;
+    background-color: #cccccc;
+    /*margin-left: 6px;*/
+    margin-top: 6px;
+    height: 118px;
+    width: 192px;
+}
+
+#top-right {
+    display: inline-block;
+    background-color: #cccccc;
+    /*margin-left: 6px;*/
+    margin-top: 6px;
+    height: 118px;
+    width: 192px;
+}
+
+#middle-left {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-top: 6px;
+    margin-left:6px;
+    height: 100px;
+    width: 142.5px;
+    vertical-align: top;
+}
+
+#middle-left-middle {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-top: 6px;
+    height: 75px;
+    width: 142.5px;
+    vertical-align:top;
+}
+
+#middle-right-middle {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-top: 6px;
+    height: 100px;
+    width: 142.5px;
+}
+
+#middle-right {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-top: 6px;
+    height: 75px;
+    width: 142.5px;
+    vertical-align:top;
+}
+
+#bottom-left {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-top: 6px;
+    margin-left: 6px;
+    height: 35px;
+    width: 291px;
+    vertical-align: bottom;
+}
+
+#bottom-right {
+    display: inline-block;
+    background-color: #cccccc;
+    margin-top: 6px;
+    height: 118px;
+    width: 291px;
+    vertical-align:bottom;
+}
+
+
+
